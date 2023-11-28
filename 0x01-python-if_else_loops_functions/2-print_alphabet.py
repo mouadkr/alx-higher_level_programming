@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-ascii_a = ord('a')
 
-for i in range(26):
-    print(chr(ascii_a + i), end='')
-print()
+for x in range(97, 123):
+    print("{}".format(chr(x)), end='')
