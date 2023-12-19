@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 class Square:
-    x = 0
+    pass
